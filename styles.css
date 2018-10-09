@@ -1,0 +1,30 @@
+.jumbotron {
+    background-image: url(patriots_gillette_stadium.jpg);
+    background-size: 50%;
+    background-color: #0C2340;
+    color: #C8102E;
+    background-repeat: no-repeat;
+    font-family: 'Lobster', cursive;
+    background-position: 650px
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: #C8102E;
+}
+
+.lead {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.row {
+    color:#0C2340 
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+
+.button {
+    color:  #0C2340;
+}
